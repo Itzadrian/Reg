@@ -1,1 +1,1 @@
-# Reg
+# Registration page
